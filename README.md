@@ -3,16 +3,16 @@ Spring Boot project for sending Email notification using org.apache.velocity lib
 
 This repository contains a basic Spring Boot application that demonstrates how to send emails using Velocity templates. Velocity is a template engine that allows you to generate dynamic content, such as email bodies, using templates.
 
-##Getting Started:
+## Getting Started:
 
 To get started with this example, follow the steps outlined below.
 
-##Prerequisites:
+## Prerequisites:
 
 - Java Development Kit (JDK) 8 or later
 - Maven
 
-##Setup:
+## Setup:
 
 1. Clone this repository:
 
@@ -35,7 +35,7 @@ To get started with this example, follow the steps outlined below.
 
    mvn spring-boot:run
 
-##Usage:
+## Usage:
 
 1. Once the application is running, open your web browser or API client.
 
@@ -46,14 +46,14 @@ To get started with this example, follow the steps outlined below.
 
 3. You should see a success message if the email is sent successfully.
 
-Configuration:
+## Configuration:
 
 The application uses Velocity templates for generating email content. The template can be found at src/main/resources/templates/email-template.vm. You can customize the template to match your requirements.
 
-Contributing:
+## Contributing:
 
 Contributions are welcome! If you find any issues or want to enhance this example, feel free to open an issue or create a pull request.
 
-License:
+## License:
 
 This project is a open source project.
