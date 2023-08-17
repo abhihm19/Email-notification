@@ -24,10 +24,10 @@ To get started with this example, follow the steps outlined below.
 
 3. Open src/main/resources/application.properties and configure the following properties:
 
-   spring.mail.host=your-smtp-host
-   spring.mail.port=587
-   spring.mail.username=your-username
-   spring.mail.password=your-password
+   - spring.mail.host=your-smtp-host
+   - spring.mail.port=587
+   - spring.mail.username=your-username
+   - spring.mail.password=your-password
 
    Replace your-smtp-host, your-username, and your-password with your actual SMTP server details and credentials.
 
