@@ -20,9 +20,9 @@ To get started with this example, follow the steps outlined below.
    ```
 
 3. Navigate to the project directory:
-```
+   ```
    cd Email-notification
-```
+   ```
 
 4. Open src/main/resources/application.properties and configure the following properties:
 
@@ -34,8 +34,9 @@ To get started with this example, follow the steps outlined below.
    Replace your-smtp-host, your-username, and your-password with your actual SMTP server details and credentials.
 
 5. Run the application:
-
-   `mvn spring-boot:run`
+   ```
+   mvn spring-boot:run
+   ```
 
 ## Usage:
 
