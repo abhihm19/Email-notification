@@ -15,14 +15,16 @@ To get started with this example, follow the steps outlined below.
 ## Setup:
 
 1. Clone this repository:
+   ```
+   git clone https://github.com/abhihm19/Email-notification.git
+   ```
 
-   ```git clone https://github.com/abhihm19/Email-notification.git```
-
-2. Navigate to the project directory:
-
+3. Navigate to the project directory:
+```
    cd Email-notification
+```
 
-3. Open src/main/resources/application.properties and configure the following properties:
+4. Open src/main/resources/application.properties and configure the following properties:
 
    - spring.mail.host=your-smtp-host
    - spring.mail.port=587
@@ -31,7 +33,7 @@ To get started with this example, follow the steps outlined below.
 
    Replace your-smtp-host, your-username, and your-password with your actual SMTP server details and credentials.
 
-4. Run the application:
+5. Run the application:
 
    `mvn spring-boot:run`
 
