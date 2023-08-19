@@ -20,7 +20,7 @@ To get started with this example, follow the steps outlined below.
 
 2. Navigate to the project directory:
 
-   `cd Email-notification`
+   cd Email-notification
 
 3. Open src/main/resources/application.properties and configure the following properties:
 
