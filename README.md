@@ -16,11 +16,11 @@ To get started with this example, follow the steps outlined below.
 
 1. Clone this repository:
 
-   git clone https://github.com/abhihm19/Email-notification.git
+   `git clone https://github.com/abhihm19/Email-notification.git`
 
 2. Navigate to the project directory:
 
-   cd Email-notification
+   `cd Email-notification`
 
 3. Open src/main/resources/application.properties and configure the following properties:
 
@@ -33,7 +33,7 @@ To get started with this example, follow the steps outlined below.
 
 4. Run the application:
 
-   mvn spring-boot:run
+   `mvn spring-boot:run`
 
 ## Usage:
 
@@ -56,4 +56,4 @@ Contributions are welcome! If you find any issues or want to enhance this exampl
 
 ## License:
 
-This project is a open source project.
+This project is an open source project.
