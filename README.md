@@ -16,7 +16,7 @@ To get started with this example, follow the steps outlined below.
 
 1. Clone this repository:
 
-   `git clone https://github.com/abhihm19/Email-notification.git`
+   ```git clone https://github.com/abhihm19/Email-notification.git```
 
 2. Navigate to the project directory:
 
