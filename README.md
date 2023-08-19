@@ -9,8 +9,8 @@ To get started with this example, follow the steps outlined below.
 
 ## Prerequisites:
 
-- Java Development Kit (JDK) 8 or later
-- Maven
+- Java Development Kit (JDK) 11
+- Maven 3+
 
 ## Setup:
 
