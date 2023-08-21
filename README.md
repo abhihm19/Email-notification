@@ -21,7 +21,7 @@ To get started with this example, follow the steps outlined below.
 
 3. Navigate to the project directory:
    ```
-   cd Email-notification
+   cd email-notification-apache-velocity
    ```
 
 4. Open src/main/resources/application.properties and configure the following properties:
